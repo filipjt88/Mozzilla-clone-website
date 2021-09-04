@@ -1,1 +1,1 @@
-# Mozzilla-clone-website
+# mozilla-project
